@@ -1,1 +1,0 @@
-"""Diálogos de detalle."""
